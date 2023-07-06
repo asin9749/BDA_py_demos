@@ -3,5 +3,5 @@ numpy==1.13.1
 numpydoc==0.6.0
 pandas==0.20.3
 pystan==2.16.0.0
-scipy==0.19.1
+scipy==1.10.0
 seaborn==0.8
